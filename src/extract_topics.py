@@ -12,7 +12,7 @@ import hdbscan
 from bertopic import BERTopic
 
 # ✅ Download NLTK data
-nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('stopwords')
 
 feedback_list = [
