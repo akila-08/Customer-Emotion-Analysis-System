@@ -1,0 +1,1932 @@
+[
+    {
+        "date": "2025-02-25",
+        "feedback": "I absolutely love this product! It exceeded my expectations.",
+        "emotions": {
+            "primary": {
+                "emotion": "Love",
+                "activation": "Low",
+                "intensity": 0.86
+            },
+            "secondary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.03
+            }
+        },
+        "topics": {
+            "main": [
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Positive Experience": [
+                    "love"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 5,
+            "breakdown": {
+                "Positive Experience": 5
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The customer service was horrible. I waited 30 minutes just to talk to someone!",
+        "emotions": {
+            "primary": {
+                "emotion": "Fear",
+                "activation": "Medium",
+                "intensity": 0.54
+            },
+            "secondary": {
+                "emotion": "Nervousness",
+                "activation": "Low",
+                "intensity": 0.08
+            }
+        },
+        "topics": {
+            "main": [
+                "Customer Service"
+            ],
+            "subtopics": {
+                "Customer Service": [
+                    "horrible"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -56,
+            "breakdown": {
+                "Customer Service": -56
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "I\u2019m so disappointed with my purchase. It broke after just one use.",
+        "emotions": {
+            "primary": {
+                "emotion": "Sadness",
+                "activation": "Medium",
+                "intensity": 0.37
+            },
+            "secondary": {
+                "emotion": "Disappointment",
+                "activation": "Low",
+                "intensity": 0.33
+            }
+        },
+        "topics": {
+            "main": [
+                "Customer Experience"
+            ],
+            "subtopics": {
+                "Customer Experience": [
+                    "disappointed"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -44,
+            "breakdown": {
+                "Customer Experience": -44
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "Wow! I wasn\u2019t expecting this to be so good. Very impressed!",
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.75
+            },
+            "secondary": {
+                "emotion": "Surprise",
+                "activation": "Medium",
+                "intensity": 0.07
+            }
+        },
+        "topics": {
+            "main": [
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Positive Experience": [
+                    "impressed"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 79,
+            "breakdown": {
+                "Positive Experience": 79
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "I feel cheated. The product description was completely misleading.",
+        "emotions": {
+            "primary": {
+                "emotion": "Disappointment",
+                "activation": "Low",
+                "intensity": 0.2
+            },
+            "secondary": {
+                "emotion": "Annoyance",
+                "activation": "Low",
+                "intensity": 0.11
+            }
+        },
+        "topics": {
+            "main": [
+                "Product Issues",
+                "Loyalty & Trust"
+            ],
+            "subtopics": {
+                "Product Issues": [
+                    "misleading"
+                ],
+                "Loyalty & Trust": [
+                    "misleading"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -23,
+            "breakdown": {
+                "Product Issues": -25,
+                "Loyalty & Trust": -20
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "This is my favorite purchase of the year! Highly recommend it.",
+        "emotions": {
+            "primary": {
+                "emotion": "Love",
+                "activation": "Low",
+                "intensity": 0.44
+            },
+            "secondary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.27
+            }
+        },
+        "topics": {
+            "main": [
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Positive Experience": [
+                    "recommend"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 35,
+            "breakdown": {
+                "Positive Experience": 35
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The app is extremely slow and keeps crashing. Very frustrating experience.",
+        "emotions": {
+            "primary": {
+                "emotion": "Annoyance",
+                "activation": "Low",
+                "intensity": 0.35
+            },
+            "secondary": {
+                "emotion": "Disgust",
+                "activation": "Medium",
+                "intensity": 0.19
+            }
+        },
+        "topics": {
+            "main": [
+                "Technology & Software",
+                "Performance & Speed"
+            ],
+            "subtopics": {
+                "Technology & Software": [
+                    "slow",
+                    "app"
+                ],
+                "Performance & Speed": [
+                    "slow"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -28,
+            "breakdown": {
+                "Technology & Software": -31,
+                "Performance & Speed": -25
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "I ordered a shirt, but the size was completely wrong. Poor quality control!",
+        "emotions": {
+            "primary": {
+                "emotion": "Disappointment",
+                "activation": "Low",
+                "intensity": 0.34
+            },
+            "secondary": {
+                "emotion": "Sadness",
+                "activation": "Medium",
+                "intensity": 0.1
+            }
+        },
+        "topics": {
+            "main": [
+                "Quality",
+                "Product Issues",
+                "Clothes & Accessories"
+            ],
+            "subtopics": {
+                "Quality": [
+                    "quality"
+                ],
+                "Product Issues": [
+                    "poor"
+                ],
+                "Clothes & Accessories": [
+                    "size"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -23,
+            "breakdown": {
+                "Quality": -28,
+                "Product Issues": -22,
+                "Clothes & Accessories": -17
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "Why is this product so expensive? It\u2019s definitely not worth the price.",
+        "emotions": {
+            "primary": {
+                "emotion": "Confusion",
+                "activation": "Low",
+                "intensity": 0.31
+            },
+            "secondary": {
+                "emotion": "Curiosity",
+                "activation": "Low",
+                "intensity": 0.27
+            }
+        },
+        "topics": {
+            "main": [
+                "Price & Value"
+            ],
+            "subtopics": {
+                "Price & Value": [
+                    "expensive",
+                    "price",
+                    "worth"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -1,
+            "breakdown": {
+                "Price & Value": -1
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The packaging was damaged when it arrived. Not acceptable!",
+        "emotions": {
+            "primary": {
+                "emotion": "Disapproval",
+                "activation": "Low",
+                "intensity": 0.19
+            },
+            "secondary": {
+                "emotion": "Annoyance",
+                "activation": "Low",
+                "intensity": 0.12
+            }
+        },
+        "topics": {
+            "main": [
+                "Product Issues",
+                "Packaging & Handling"
+            ],
+            "subtopics": {
+                "Product Issues": [
+                    "damaged"
+                ],
+                "Packaging & Handling": [
+                    "damaged",
+                    "packaging"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -10,
+            "breakdown": {
+                "Product Issues": -11,
+                "Packaging & Handling": -9
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "I had to return the product. The refund process was quick and smooth.",
+        "emotions": {
+            "primary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.24
+            },
+            "secondary": {
+                "emotion": "Optimism",
+                "activation": "Low",
+                "intensity": 0.07
+            }
+        },
+        "topics": {
+            "main": [
+                "Refunds & Returns",
+                "User Experience",
+                "Performance & Speed",
+                "Ease of Use"
+            ],
+            "subtopics": {
+                "Refunds & Returns": [
+                    "return",
+                    "refund"
+                ],
+                "User Experience": [
+                    "smooth"
+                ],
+                "Performance & Speed": [
+                    "smooth",
+                    "quick"
+                ],
+                "Ease of Use": [
+                    "smooth"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 2,
+            "breakdown": {
+                "Refunds & Returns": 3,
+                "User Experience": 2,
+                "Performance & Speed": 2,
+                "Ease of Use": 1
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The user interface of the app is outdated and hard to navigate.",
+        "emotions": {
+            "primary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.08
+            },
+            "secondary": {
+                "emotion": "Disappointment",
+                "activation": "Low",
+                "intensity": 0.05
+            }
+        },
+        "topics": {
+            "main": [
+                "Technology & Software",
+                "User Experience"
+            ],
+            "subtopics": {
+                "Technology & Software": [
+                    "app"
+                ],
+                "User Experience": [
+                    "hard",
+                    "interface"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -3,
+            "breakdown": {
+                "Technology & Software": -3,
+                "User Experience": -2
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The customer support team was very helpful and solved my issue quickly.",
+        "emotions": {
+            "primary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.16
+            },
+            "secondary": {
+                "emotion": "Sadness",
+                "activation": "Medium",
+                "intensity": 0.16
+            }
+        },
+        "topics": {
+            "main": [
+                "Customer Service"
+            ],
+            "subtopics": {
+                "Customer Service": [
+                    "helpful",
+                    "support"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -12,
+            "breakdown": {
+                "Customer Service": -12
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "I love the sleek design of this gadget. Looks premium and high-end.",
+        "emotions": {
+            "primary": {
+                "emotion": "Love",
+                "activation": "Low",
+                "intensity": 0.87
+            },
+            "secondary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.04
+            }
+        },
+        "topics": {
+            "main": [
+                "Quality",
+                "Aesthetics & Design",
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Quality": [
+                    "premium"
+                ],
+                "Aesthetics & Design": [
+                    "sleek"
+                ],
+                "Positive Experience": [
+                    "love"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 5,
+            "breakdown": {
+                "Quality": 6,
+                "Aesthetics & Design": 5,
+                "Positive Experience": 4
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "This perfume has a wonderful fragrance that lasts all day!",
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.58
+            },
+            "secondary": {
+                "emotion": "Excitement",
+                "activation": "High",
+                "intensity": 0.1
+            }
+        },
+        "topics": {
+            "main": [
+                "i"
+            ],
+            "subtopics": {
+                "i": [
+                    "this",
+                    "the",
+                    "a",
+                    "product"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 67,
+            "breakdown": {
+                "i": 67
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "My package was delayed by a week. Very poor service.",
+        "emotions": {
+            "primary": {
+                "emotion": "Sadness",
+                "activation": "Medium",
+                "intensity": 0.19
+            },
+            "secondary": {
+                "emotion": "Disappointment",
+                "activation": "Low",
+                "intensity": 0.12
+            }
+        },
+        "topics": {
+            "main": [
+                "Product Issues"
+            ],
+            "subtopics": {
+                "Product Issues": [
+                    "poor"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -24,
+            "breakdown": {
+                "Product Issues": -24
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The laptop gets too hot after only 10 minutes of use.",
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.15
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.07
+            }
+        },
+        "topics": {
+            "main": [
+                "Battery & Power"
+            ],
+            "subtopics": {
+                "Battery & Power": [
+                    "hot"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 11,
+            "breakdown": {
+                "Battery & Power": 11
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "I am very satisfied with this purchase. Great value for money!",
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.81
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.06
+            }
+        },
+        "topics": {
+            "main": [
+                "Price & Value",
+                "Customer Experience",
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Price & Value": [
+                    "money"
+                ],
+                "Customer Experience": [
+                    "satisfied"
+                ],
+                "Positive Experience": [
+                    "great",
+                    "satisfied"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 67,
+            "breakdown": {
+                "Price & Value": 84,
+                "Customer Experience": 67,
+                "Positive Experience": 50
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "I got a defective product and had to request a replacement.",
+        "emotions": {
+            "primary": {
+                "emotion": "Realization",
+                "activation": "Low",
+                "intensity": 0.07
+            },
+            "secondary": {
+                "emotion": "Disappointment",
+                "activation": "Low",
+                "intensity": 0.04
+            }
+        },
+        "topics": {
+            "main": [
+                "Quality",
+                "Refunds & Returns"
+            ],
+            "subtopics": {
+                "Quality": [
+                    "defective"
+                ],
+                "Refunds & Returns": [
+                    "replacement",
+                    "defective"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -6,
+            "breakdown": {
+                "Quality": -6,
+                "Refunds & Returns": -5
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The restaurant\u2019s food delivery was extremely late. Unacceptable!",
+        "emotions": {
+            "primary": {
+                "emotion": "Disapproval",
+                "activation": "Low",
+                "intensity": 0.28
+            },
+            "secondary": {
+                "emotion": "Annoyance",
+                "activation": "Low",
+                "intensity": 0.15
+            }
+        },
+        "topics": {
+            "main": [
+                "Delivery"
+            ],
+            "subtopics": {
+                "Delivery": [
+                    "delivery",
+                    "late"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -11,
+            "breakdown": {
+                "Delivery": -11
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The smartwatch battery drains too fast. Not worth it.",
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.24
+            },
+            "secondary": {
+                "emotion": "Disapproval",
+                "activation": "Low",
+                "intensity": 0.14
+            }
+        },
+        "topics": {
+            "main": [
+                "Delivery",
+                "Price & Value",
+                "Battery & Power",
+                "Performance & Speed",
+                "Performance"
+            ],
+            "subtopics": {
+                "Delivery": [
+                    "fast"
+                ],
+                "Price & Value": [
+                    "worth"
+                ],
+                "Battery & Power": [
+                    "battery",
+                    "drains",
+                    "fast"
+                ],
+                "Performance & Speed": [
+                    "fast"
+                ],
+                "Performance": [
+                    "fast"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 10,
+            "breakdown": {
+                "Delivery": 18,
+                "Price & Value": 14,
+                "Battery & Power": 11,
+                "Performance & Speed": 7,
+                "Performance": 4
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The new update on the app is amazing! So many great features.",
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.92
+            },
+            "secondary": {
+                "emotion": "Excitement",
+                "activation": "High",
+                "intensity": 0.02
+            }
+        },
+        "topics": {
+            "main": [
+                "Quality",
+                "Technology & Software",
+                "Customer Experience",
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Quality": [
+                    "amazing"
+                ],
+                "Technology & Software": [
+                    "update",
+                    "app"
+                ],
+                "Customer Experience": [
+                    "amazing"
+                ],
+                "Positive Experience": [
+                    "great",
+                    "amazing"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 66,
+            "breakdown": {
+                "Quality": 95,
+                "Technology & Software": 76,
+                "Customer Experience": 57,
+                "Positive Experience": 38
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "I bought a gaming console and I\u2019m loving it! Best investment.",
+        "emotions": {
+            "primary": {
+                "emotion": "Love",
+                "activation": "Low",
+                "intensity": 0.6
+            },
+            "secondary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.21
+            }
+        },
+        "topics": {
+            "main": [
+                "i"
+            ],
+            "subtopics": {
+                "i": [
+                    "this",
+                    "the",
+                    "a",
+                    "product"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 28,
+            "breakdown": {
+                "i": 28
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "This jacket is very comfortable and stylish. Perfect for winter!",
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.58
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.16
+            }
+        },
+        "topics": {
+            "main": [
+                "Clothes & Accessories",
+                "Comfort & Feel",
+                "Aesthetics & Design"
+            ],
+            "subtopics": {
+                "Clothes & Accessories": [
+                    "stylish",
+                    "comfortable"
+                ],
+                "Comfort & Feel": [
+                    "comfortable"
+                ],
+                "Aesthetics & Design": [
+                    "stylish"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 49,
+            "breakdown": {
+                "Clothes & Accessories": 61,
+                "Comfort & Feel": 49,
+                "Aesthetics & Design": 37
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The sales team was very pushy and made me uncomfortable.",
+        "emotions": {
+            "primary": {
+                "emotion": "Disgust",
+                "activation": "Medium",
+                "intensity": 0.29
+            },
+            "secondary": {
+                "emotion": "Embarrassment",
+                "activation": "Low",
+                "intensity": 0.15
+            }
+        },
+        "topics": {
+            "main": [
+                "the"
+            ],
+            "subtopics": {
+                "the": [
+                    "is",
+                    "it",
+                    "i",
+                    "to"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -40,
+            "breakdown": {
+                "the": -40
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "Why does this product have so many fake reviews? Seems misleading.",
+        "emotions": {
+            "primary": {
+                "emotion": "Curiosity",
+                "activation": "Low",
+                "intensity": 0.35
+            },
+            "secondary": {
+                "emotion": "Confusion",
+                "activation": "Low",
+                "intensity": 0.23
+            }
+        },
+        "topics": {
+            "main": [
+                "Product Issues",
+                "Loyalty & Trust"
+            ],
+            "subtopics": {
+                "Product Issues": [
+                    "misleading",
+                    "fake"
+                ],
+                "Loyalty & Trust": [
+                    "misleading"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -5,
+            "breakdown": {
+                "Product Issues": -5,
+                "Loyalty & Trust": -4
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "I love the eco-friendly packaging. Great initiative!",
+        "emotions": {
+            "primary": {
+                "emotion": "Love",
+                "activation": "Low",
+                "intensity": 0.51
+            },
+            "secondary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.39
+            }
+        },
+        "topics": {
+            "main": [
+                "Customer Service",
+                "Packaging & Handling",
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Customer Service": [
+                    "friendly"
+                ],
+                "Packaging & Handling": [
+                    "packaging"
+                ],
+                "Positive Experience": [
+                    "great",
+                    "love"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 33,
+            "breakdown": {
+                "Customer Service": 42,
+                "Packaging & Handling": 34,
+                "Positive Experience": 25
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The mattress is too firm for my liking. Not as described.",
+        "emotions": {
+            "primary": {
+                "emotion": "Disapproval",
+                "activation": "Low",
+                "intensity": 0.09
+            },
+            "secondary": {
+                "emotion": "Love",
+                "activation": "Low",
+                "intensity": 0.09
+            }
+        },
+        "topics": {
+            "main": [
+                "Comfort & Feel",
+                "Home & Appliances"
+            ],
+            "subtopics": {
+                "Comfort & Feel": [
+                    "firm"
+                ],
+                "Home & Appliances": [
+                    "mattress"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -5,
+            "breakdown": {
+                "Comfort & Feel": -5,
+                "Home & Appliances": -4
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The earbuds are super lightweight and have excellent sound quality.",
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.91
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.02
+            }
+        },
+        "topics": {
+            "main": [
+                "Quality",
+                "Sound & Audio",
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Quality": [
+                    "quality",
+                    "excellent"
+                ],
+                "Sound & Audio": [
+                    "sound"
+                ],
+                "Positive Experience": [
+                    "excellent"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 76,
+            "breakdown": {
+                "Quality": 95,
+                "Sound & Audio": 76,
+                "Positive Experience": 57
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "I feel scammed! The product doesn\u2019t match the description at all.",
+        "emotions": {
+            "primary": {
+                "emotion": "Disappointment",
+                "activation": "Low",
+                "intensity": 0.25
+            },
+            "secondary": {
+                "emotion": "Sadness",
+                "activation": "Medium",
+                "intensity": 0.16
+            }
+        },
+        "topics": {
+            "main": [
+                "the"
+            ],
+            "subtopics": {
+                "the": [
+                    "is",
+                    "it",
+                    "i",
+                    "to"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -26,
+            "breakdown": {
+                "the": -26
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The refund took forever to process. Very frustrating.",
+        "emotions": {
+            "primary": {
+                "emotion": "Annoyance",
+                "activation": "Low",
+                "intensity": 0.4
+            },
+            "secondary": {
+                "emotion": "Anger",
+                "activation": "Medium",
+                "intensity": 0.26
+            }
+        },
+        "topics": {
+            "main": [
+                "Refunds & Returns"
+            ],
+            "subtopics": {
+                "Refunds & Returns": [
+                    "refund"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -26,
+            "breakdown": {
+                "Refunds & Returns": -26
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The online checkout process was so smooth and fast!",
+        "emotions": {
+            "primary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.02
+            },
+            "secondary": {
+                "emotion": "Excitement",
+                "activation": "High",
+                "intensity": 0.02
+            }
+        },
+        "topics": {
+            "main": [
+                "Delivery",
+                "Technology & Software",
+                "Battery & Power",
+                "User Experience",
+                "Shopping Experience",
+                "Performance & Speed",
+                "Ease of Use",
+                "Performance"
+            ],
+            "subtopics": {
+                "Delivery": [
+                    "fast"
+                ],
+                "Technology & Software": [
+                    "checkout"
+                ],
+                "Battery & Power": [
+                    "fast"
+                ],
+                "User Experience": [
+                    "smooth",
+                    "checkout"
+                ],
+                "Shopping Experience": [
+                    "checkout"
+                ],
+                "Performance & Speed": [
+                    "smooth",
+                    "fast"
+                ],
+                "Ease of Use": [
+                    "smooth"
+                ],
+                "Performance": [
+                    "fast"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 0,
+            "breakdown": {
+                "Delivery": 2,
+                "Technology & Software": 2,
+                "Battery & Power": 1,
+                "User Experience": 1,
+                "Shopping Experience": 0,
+                "Performance & Speed": 0,
+                "Ease of Use": 0,
+                "Performance": -1
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "My parcel was lost in transit. The company was unhelpful in resolving it.",
+        "emotions": {
+            "primary": {
+                "emotion": "Disappointment",
+                "activation": "Low",
+                "intensity": 0.22
+            },
+            "secondary": {
+                "emotion": "Sadness",
+                "activation": "Medium",
+                "intensity": 0.11
+            }
+        },
+        "topics": {
+            "main": [
+                "Delivery",
+                "Customer Service"
+            ],
+            "subtopics": {
+                "Delivery": [
+                    "lost",
+                    "transit",
+                    "parcel"
+                ],
+                "Customer Service": [
+                    "unhelpful"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -22,
+            "breakdown": {
+                "Delivery": -24,
+                "Customer Service": -19
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The fabric of this dress is really soft and comfortable.",
+        "emotions": {
+            "primary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.27
+            },
+            "secondary": {
+                "emotion": "Realization",
+                "activation": "Low",
+                "intensity": 0.14
+            }
+        },
+        "topics": {
+            "main": [
+                "Clothes & Accessories",
+                "Comfort & Feel"
+            ],
+            "subtopics": {
+                "Clothes & Accessories": [
+                    "fabric",
+                    "comfortable"
+                ],
+                "Comfort & Feel": [
+                    "comfortable",
+                    "soft"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 13,
+            "breakdown": {
+                "Clothes & Accessories": 15,
+                "Comfort & Feel": 12
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The mobile app keeps logging me out randomly. Needs improvement.",
+        "emotions": {
+            "primary": {
+                "emotion": "Annoyance",
+                "activation": "Low",
+                "intensity": 0.09
+            },
+            "secondary": {
+                "emotion": "Anger",
+                "activation": "Medium",
+                "intensity": 0.06
+            }
+        },
+        "topics": {
+            "main": [
+                "Technology & Software"
+            ],
+            "subtopics": {
+                "Technology & Software": [
+                    "app"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -11,
+            "breakdown": {
+                "Technology & Software": -11
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The air fryer is easy to clean and very efficient!",
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.53
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.17
+            }
+        },
+        "topics": {
+            "main": [
+                "Customer Service",
+                "Performance & Speed",
+                "Performance"
+            ],
+            "subtopics": {
+                "Customer Service": [
+                    "efficient"
+                ],
+                "Performance & Speed": [
+                    "efficient"
+                ],
+                "Performance": [
+                    "efficient"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 44,
+            "breakdown": {
+                "Customer Service": 55,
+                "Performance & Speed": 44,
+                "Performance": 33
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "I wish there were more color options available for this product.",
+        "emotions": {
+            "primary": {
+                "emotion": "Desire",
+                "activation": "Low",
+                "intensity": 0.72
+            },
+            "secondary": {
+                "emotion": "Optimism",
+                "activation": "Low",
+                "intensity": 0.09
+            }
+        },
+        "topics": {
+            "main": [
+                "i"
+            ],
+            "subtopics": {
+                "i": [
+                    "this",
+                    "the",
+                    "a",
+                    "product"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 0,
+            "breakdown": {
+                "i": 0
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The phone camera quality is much better than I expected!",
+        "emotions": {
+            "primary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.29
+            },
+            "secondary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.25
+            }
+        },
+        "topics": {
+            "main": [
+                "Quality"
+            ],
+            "subtopics": {
+                "Quality": [
+                    "quality"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 29,
+            "breakdown": {
+                "Quality": 29
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The speaker volume is too low even at max settings.",
+        "emotions": {
+            "primary": {
+                "emotion": "Annoyance",
+                "activation": "Low",
+                "intensity": 0.03
+            },
+            "secondary": {
+                "emotion": "Disappointment",
+                "activation": "Low",
+                "intensity": 0.03
+            }
+        },
+        "topics": {
+            "main": [
+                "Sound & Audio"
+            ],
+            "subtopics": {
+                "Sound & Audio": [
+                    "volume",
+                    "speaker"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -4,
+            "breakdown": {
+                "Sound & Audio": -4
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "I received a used product instead of a new one. Very disappointed.",
+        "emotions": {
+            "primary": {
+                "emotion": "Disappointment",
+                "activation": "Low",
+                "intensity": 0.28
+            },
+            "secondary": {
+                "emotion": "Sadness",
+                "activation": "Medium",
+                "intensity": 0.1
+            }
+        },
+        "topics": {
+            "main": [
+                "Customer Experience"
+            ],
+            "subtopics": {
+                "Customer Experience": [
+                    "disappointed"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -23,
+            "breakdown": {
+                "Customer Experience": -23
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "I had the best customer service experience! Friendly and efficient.",
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.62
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.11
+            }
+        },
+        "topics": {
+            "main": [
+                "Customer Service",
+                "Performance & Speed",
+                "Performance"
+            ],
+            "subtopics": {
+                "Customer Service": [
+                    "friendly",
+                    "efficient"
+                ],
+                "Performance & Speed": [
+                    "efficient"
+                ],
+                "Performance": [
+                    "efficient"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 51,
+            "breakdown": {
+                "Customer Service": 64,
+                "Performance & Speed": 51,
+                "Performance": 38
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The chair is uncomfortable for long hours of sitting.",
+        "emotions": {
+            "primary": {
+                "emotion": "Disgust",
+                "activation": "Medium",
+                "intensity": 0.18
+            },
+            "secondary": {
+                "emotion": "Annoyance",
+                "activation": "Low",
+                "intensity": 0.14
+            }
+        },
+        "topics": {
+            "main": [
+                "the"
+            ],
+            "subtopics": {
+                "the": [
+                    "is",
+                    "it",
+                    "i",
+                    "to"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -30,
+            "breakdown": {
+                "the": -30
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "My parcel was delivered super fast. Great job!",
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.93
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.01
+            }
+        },
+        "topics": {
+            "main": [
+                "Delivery",
+                "Battery & Power",
+                "Performance & Speed",
+                "Positive Experience",
+                "Performance"
+            ],
+            "subtopics": {
+                "Delivery": [
+                    "parcel",
+                    "fast"
+                ],
+                "Battery & Power": [
+                    "fast"
+                ],
+                "Performance & Speed": [
+                    "fast"
+                ],
+                "Positive Experience": [
+                    "great"
+                ],
+                "Performance": [
+                    "fast"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 58,
+            "breakdown": {
+                "Delivery": 97,
+                "Battery & Power": 78,
+                "Performance & Speed": 58,
+                "Positive Experience": 39,
+                "Performance": 19
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The fitness tracker motivates me to stay active. Love it!",
+        "emotions": {
+            "primary": {
+                "emotion": "Love",
+                "activation": "Low",
+                "intensity": 0.75
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.04
+            }
+        },
+        "topics": {
+            "main": [
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Positive Experience": [
+                    "love"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 4,
+            "breakdown": {
+                "Positive Experience": 4
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The keyboard is very responsive and great for typing.",
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.91
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.03
+            }
+        },
+        "topics": {
+            "main": [
+                "Technology & Software",
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Technology & Software": [
+                    "responsive"
+                ],
+                "Positive Experience": [
+                    "great"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 84,
+            "breakdown": {
+                "Technology & Software": 94,
+                "Positive Experience": 75
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The store\u2019s return policy is too strict. Not fair to customers.",
+        "emotions": {
+            "primary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.11
+            },
+            "secondary": {
+                "emotion": "Disapproval",
+                "activation": "Low",
+                "intensity": 0.11
+            }
+        },
+        "topics": {
+            "main": [
+                "Refunds & Returns"
+            ],
+            "subtopics": {
+                "Refunds & Returns": [
+                    "policy",
+                    "return"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": -2,
+            "breakdown": {
+                "Refunds & Returns": -2
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The subscription plan is too expensive for the features provided.",
+        "emotions": {
+            "primary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.26
+            },
+            "secondary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.05
+            }
+        },
+        "topics": {
+            "main": [
+                "Price & Value"
+            ],
+            "subtopics": {
+                "Price & Value": [
+                    "expensive"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 6,
+            "breakdown": {
+                "Price & Value": 6
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "This hairdryer is very powerful and dries hair quickly!",
+        "emotions": {
+            "primary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.41
+            },
+            "secondary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.07
+            }
+        },
+        "topics": {
+            "main": [
+                "Performance"
+            ],
+            "subtopics": {
+                "Performance": [
+                    "powerful"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 8,
+            "breakdown": {
+                "Performance": 8
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The freezer stopped working after just a month of use.",
+        "emotions": {
+            "primary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.02
+            },
+            "secondary": {
+                "emotion": "Annoyance",
+                "activation": "Low",
+                "intensity": 0.01
+            }
+        },
+        "topics": {
+            "main": [
+                "Home & Appliances"
+            ],
+            "subtopics": {
+                "Home & Appliances": [
+                    "freezer"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 0,
+            "breakdown": {
+                "Home & Appliances": 0
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "I love how easy it is to assemble this furniture.",
+        "emotions": {
+            "primary": {
+                "emotion": "Love",
+                "activation": "Low",
+                "intensity": 0.88
+            },
+            "secondary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.04
+            }
+        },
+        "topics": {
+            "main": [
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Positive Experience": [
+                    "love"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 5,
+            "breakdown": {
+                "Positive Experience": 5
+            }
+        }
+    },
+    {
+        "date": "2025-02-25",
+        "feedback": "The projector has an amazing picture quality. Perfect for home theater!",
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "High",
+                "intensity": 0.92
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.01
+            }
+        },
+        "topics": {
+            "main": [
+                "Quality",
+                "Home & Appliances",
+                "Customer Experience",
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Quality": [
+                    "amazing",
+                    "quality"
+                ],
+                "Home & Appliances": [
+                    "projector"
+                ],
+                "Customer Experience": [
+                    "amazing"
+                ],
+                "Positive Experience": [
+                    "amazing"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 67,
+            "breakdown": {
+                "Quality": 96,
+                "Home & Appliances": 77,
+                "Customer Experience": 58,
+                "Positive Experience": 38
+            }
+        }
+    }
+]

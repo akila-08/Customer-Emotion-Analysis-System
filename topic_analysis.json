@@ -1,0 +1,1116 @@
+[
+    {
+        "feedback": "I absolutely love this product! It exceeded my expectations.",
+        "topics": {
+            "main": [
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Positive Experience": [
+                    "love"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.9200000166893005,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The customer service was horrible. I waited 30 minutes just to talk to someone!",
+        "topics": {
+            "main": [
+                "Customer Service"
+            ],
+            "subtopics": {
+                "Customer Service": [
+                    "horrible"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.949999988079071,
+            "was": 0.009999999776482582
+        }
+    },
+    {
+        "feedback": "I\u2019m so disappointed with my purchase. It broke after just one use.",
+        "topics": {
+            "main": [
+                "Customer Experience"
+            ],
+            "subtopics": {
+                "Customer Experience": [
+                    "disappointed"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.009999999776482582,
+            "was": 0.9399999976158142
+        }
+    },
+    {
+        "feedback": "Wow! I wasn\u2019t expecting this to be so good. Very impressed!",
+        "topics": {
+            "main": [
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Positive Experience": [
+                    "impressed"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.9399999976158142,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "I feel cheated. The product description was completely misleading.",
+        "topics": {
+            "main": [
+                "Product Issues",
+                "Loyalty & Trust"
+            ],
+            "subtopics": {
+                "Product Issues": [
+                    "misleading"
+                ],
+                "Loyalty & Trust": [
+                    "misleading"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "This is my favorite purchase of the year! Highly recommend it.",
+        "topics": {
+            "main": [
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Positive Experience": [
+                    "recommend"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The app is extremely slow and keeps crashing. Very frustrating experience.",
+        "topics": {
+            "main": [
+                "Technology & Software",
+                "Performance & Speed"
+            ],
+            "subtopics": {
+                "Technology & Software": [
+                    "slow",
+                    "app"
+                ],
+                "Performance & Speed": [
+                    "slow"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "I ordered a shirt, but the size was completely wrong. Poor quality control!",
+        "topics": {
+            "main": [
+                "Quality",
+                "Product Issues",
+                "Clothes & Accessories"
+            ],
+            "subtopics": {
+                "Quality": [
+                    "quality"
+                ],
+                "Product Issues": [
+                    "poor"
+                ],
+                "Clothes & Accessories": [
+                    "size"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.009999999776482582,
+            "was": 0.009999999776482582
+        }
+    },
+    {
+        "feedback": "Why is this product so expensive? It\u2019s definitely not worth the price.",
+        "topics": {
+            "main": [
+                "Price & Value"
+            ],
+            "subtopics": {
+                "Price & Value": [
+                    "price",
+                    "worth",
+                    "expensive"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The packaging was damaged when it arrived. Not acceptable!",
+        "topics": {
+            "main": [
+                "Product Issues",
+                "Packaging & Handling"
+            ],
+            "subtopics": {
+                "Product Issues": [
+                    "damaged"
+                ],
+                "Packaging & Handling": [
+                    "packaging",
+                    "damaged"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "I had to return the product. The refund process was quick and smooth.",
+        "topics": {
+            "main": [
+                "Refunds & Returns",
+                "User Experience",
+                "Performance & Speed",
+                "Ease of Use"
+            ],
+            "subtopics": {
+                "Refunds & Returns": [
+                    "return",
+                    "refund"
+                ],
+                "User Experience": [
+                    "smooth"
+                ],
+                "Performance & Speed": [
+                    "smooth",
+                    "quick"
+                ],
+                "Ease of Use": [
+                    "smooth"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.9399999976158142,
+            "was": 0.009999999776482582
+        }
+    },
+    {
+        "feedback": "The user interface of the app is outdated and hard to navigate.",
+        "topics": {
+            "main": [
+                "Technology & Software",
+                "User Experience"
+            ],
+            "subtopics": {
+                "Technology & Software": [
+                    "app"
+                ],
+                "User Experience": [
+                    "interface"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The customer support team was very helpful and solved my issue quickly.",
+        "topics": {
+            "main": [
+                "Customer Service"
+            ],
+            "subtopics": {
+                "Customer Service": [
+                    "helpful",
+                    "support"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "I love the sleek design of this gadget. Looks premium and high-end.",
+        "topics": {
+            "main": [
+                "Quality",
+                "Aesthetics & Design",
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Quality": [
+                    "premium"
+                ],
+                "Aesthetics & Design": [
+                    "sleek"
+                ],
+                "Positive Experience": [
+                    "love"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.009999999776482582,
+            "was": 0.009999999776482582
+        }
+    },
+    {
+        "feedback": "This perfume has a wonderful fragrance that lasts all day!",
+        "topics": {
+            "main": [
+                "the"
+            ],
+            "subtopics": {
+                "the": [
+                    "to",
+                    "very",
+                    "i",
+                    "this"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.9300000071525574,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "My package was delayed by a week. Very poor service.",
+        "topics": {
+            "main": [
+                "Product Issues"
+            ],
+            "subtopics": {
+                "Product Issues": [
+                    "poor"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.9300000071525574,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The laptop gets too hot after only 10 minutes of use.",
+        "topics": {
+            "main": [
+                "Battery & Power"
+            ],
+            "subtopics": {
+                "Battery & Power": [
+                    "hot"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "I am very satisfied with this purchase. Great value for money!",
+        "topics": {
+            "main": [
+                "Price & Value",
+                "Customer Experience",
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Price & Value": [
+                    "money"
+                ],
+                "Customer Experience": [
+                    "satisfied"
+                ],
+                "Positive Experience": [
+                    "satisfied",
+                    "great"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.9300000071525574,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "I got a defective product and had to request a replacement.",
+        "topics": {
+            "main": [
+                "Quality",
+                "Refunds & Returns"
+            ],
+            "subtopics": {
+                "Quality": [
+                    "defective"
+                ],
+                "Refunds & Returns": [
+                    "replacement",
+                    "defective"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The restaurant\u2019s food delivery was extremely late. Unacceptable!",
+        "topics": {
+            "main": [
+                "Delivery"
+            ],
+            "subtopics": {
+                "Delivery": [
+                    "late",
+                    "delivery"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.9200000166893005
+        }
+    },
+    {
+        "feedback": "The smartwatch battery drains too fast. Not worth it.",
+        "topics": {
+            "main": [
+                "Delivery",
+                "Price & Value",
+                "Battery & Power",
+                "Performance & Speed",
+                "Performance"
+            ],
+            "subtopics": {
+                "Delivery": [
+                    "fast"
+                ],
+                "Price & Value": [
+                    "worth"
+                ],
+                "Battery & Power": [
+                    "drains",
+                    "fast",
+                    "battery"
+                ],
+                "Performance & Speed": [
+                    "fast"
+                ],
+                "Performance": [
+                    "fast"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The new update on the app is amazing! So many great features.",
+        "topics": {
+            "main": [
+                "Quality",
+                "Technology & Software",
+                "Customer Experience",
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Quality": [
+                    "amazing"
+                ],
+                "Technology & Software": [
+                    "update",
+                    "app"
+                ],
+                "Customer Experience": [
+                    "amazing"
+                ],
+                "Positive Experience": [
+                    "great",
+                    "amazing"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "I bought a gaming console and I\u2019m loving it! Best investment.",
+        "topics": {
+            "main": [
+                "was"
+            ],
+            "subtopics": {
+                "was": [
+                    "it",
+                    "i",
+                    "parcel",
+                    "my"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.9399999976158142
+        }
+    },
+    {
+        "feedback": "This jacket is very comfortable and stylish. Perfect for winter!",
+        "topics": {
+            "main": [
+                "Clothes & Accessories",
+                "Comfort & Feel",
+                "Aesthetics & Design"
+            ],
+            "subtopics": {
+                "Clothes & Accessories": [
+                    "comfortable",
+                    "stylish"
+                ],
+                "Comfort & Feel": [
+                    "comfortable"
+                ],
+                "Aesthetics & Design": [
+                    "stylish"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.9300000071525574,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The sales team was very pushy and made me uncomfortable.",
+        "topics": {
+            "main": [
+                "the"
+            ],
+            "subtopics": {
+                "the": [
+                    "a",
+                    "very",
+                    "and",
+                    "is"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "Why does this product have so many fake reviews? Seems misleading.",
+        "topics": {
+            "main": [
+                "Product Issues",
+                "Loyalty & Trust"
+            ],
+            "subtopics": {
+                "Product Issues": [
+                    "misleading",
+                    "fake"
+                ],
+                "Loyalty & Trust": [
+                    "misleading"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.9300000071525574,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "I love the eco-friendly packaging. Great initiative!",
+        "topics": {
+            "main": [
+                "Customer Service",
+                "Packaging & Handling",
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Customer Service": [
+                    "friendly"
+                ],
+                "Packaging & Handling": [
+                    "packaging"
+                ],
+                "Positive Experience": [
+                    "love",
+                    "great"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The mattress is too firm for my liking. Not as described.",
+        "topics": {
+            "main": [
+                "Comfort & Feel",
+                "Home & Appliances"
+            ],
+            "subtopics": {
+                "Comfort & Feel": [
+                    "firm"
+                ],
+                "Home & Appliances": [
+                    "mattress"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The earbuds are super lightweight and have excellent sound quality.",
+        "topics": {
+            "main": [
+                "Quality",
+                "Sound & Audio",
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Quality": [
+                    "excellent",
+                    "quality"
+                ],
+                "Sound & Audio": [
+                    "sound"
+                ],
+                "Positive Experience": [
+                    "excellent"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.9300000071525574,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "I feel scammed! The product doesn\u2019t match the description at all.",
+        "topics": {
+            "main": [
+                "the"
+            ],
+            "subtopics": {
+                "the": [
+                    "a",
+                    "very",
+                    "and",
+                    "is"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The refund took forever to process. Very frustrating.",
+        "topics": {
+            "main": [
+                "Refunds & Returns"
+            ],
+            "subtopics": {
+                "Refunds & Returns": [
+                    "refund"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.9100000262260437,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The online checkout process was so smooth and fast!",
+        "topics": {
+            "main": [
+                "Delivery",
+                "Technology & Software",
+                "Battery & Power",
+                "User Experience",
+                "Shopping Experience",
+                "Performance & Speed",
+                "Ease of Use",
+                "Performance"
+            ],
+            "subtopics": {
+                "Delivery": [
+                    "fast"
+                ],
+                "Technology & Software": [
+                    "checkout"
+                ],
+                "Battery & Power": [
+                    "fast"
+                ],
+                "User Experience": [
+                    "smooth",
+                    "checkout"
+                ],
+                "Shopping Experience": [
+                    "checkout"
+                ],
+                "Performance & Speed": [
+                    "smooth",
+                    "fast"
+                ],
+                "Ease of Use": [
+                    "smooth"
+                ],
+                "Performance": [
+                    "fast"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.9200000166893005,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "My parcel was lost in transit. The company was unhelpful in resolving it.",
+        "topics": {
+            "main": [
+                "Delivery",
+                "Customer Service"
+            ],
+            "subtopics": {
+                "Delivery": [
+                    "lost",
+                    "transit",
+                    "parcel"
+                ],
+                "Customer Service": [
+                    "unhelpful"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.009999999776482582,
+            "was": 0.9399999976158142
+        }
+    },
+    {
+        "feedback": "The fabric of this dress is really soft and comfortable.",
+        "topics": {
+            "main": [
+                "Clothes & Accessories",
+                "Comfort & Feel"
+            ],
+            "subtopics": {
+                "Clothes & Accessories": [
+                    "comfortable",
+                    "fabric"
+                ],
+                "Comfort & Feel": [
+                    "comfortable",
+                    "soft"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The mobile app keeps logging me out randomly. Needs improvement.",
+        "topics": {
+            "main": [
+                "Technology & Software"
+            ],
+            "subtopics": {
+                "Technology & Software": [
+                    "app"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The air fryer is easy to clean and very efficient!",
+        "topics": {
+            "main": [
+                "Customer Service",
+                "Performance & Speed",
+                "Performance"
+            ],
+            "subtopics": {
+                "Customer Service": [
+                    "efficient"
+                ],
+                "Performance & Speed": [
+                    "efficient"
+                ],
+                "Performance": [
+                    "efficient"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "I wish there were more color options available for this product.",
+        "topics": {
+            "main": [
+                "the"
+            ],
+            "subtopics": {
+                "the": [
+                    "a",
+                    "very",
+                    "and",
+                    "is"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The phone camera quality is much better than I expected!",
+        "topics": {
+            "main": [
+                "Quality"
+            ],
+            "subtopics": {
+                "Quality": [
+                    "quality"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The speaker volume is too low even at max settings.",
+        "topics": {
+            "main": [
+                "Sound & Audio"
+            ],
+            "subtopics": {
+                "Sound & Audio": [
+                    "speaker",
+                    "volume"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "I received a used product instead of a new one. Very disappointed.",
+        "topics": {
+            "main": [
+                "Customer Experience"
+            ],
+            "subtopics": {
+                "Customer Experience": [
+                    "disappointed"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "I had the best customer service experience! Friendly and efficient.",
+        "topics": {
+            "main": [
+                "Customer Service",
+                "Performance & Speed",
+                "Performance"
+            ],
+            "subtopics": {
+                "Customer Service": [
+                    "efficient",
+                    "friendly"
+                ],
+                "Performance & Speed": [
+                    "efficient"
+                ],
+                "Performance": [
+                    "efficient"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The chair is uncomfortable for long hours of sitting.",
+        "topics": {
+            "main": [
+                "the"
+            ],
+            "subtopics": {
+                "the": [
+                    "a",
+                    "i",
+                    "for",
+                    "is"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "My parcel was delivered super fast. Great job!",
+        "topics": {
+            "main": [
+                "Delivery",
+                "Battery & Power",
+                "Performance & Speed",
+                "Positive Experience",
+                "Performance"
+            ],
+            "subtopics": {
+                "Delivery": [
+                    "fast",
+                    "parcel"
+                ],
+                "Battery & Power": [
+                    "fast"
+                ],
+                "Performance & Speed": [
+                    "fast"
+                ],
+                "Positive Experience": [
+                    "great"
+                ],
+                "Performance": [
+                    "fast"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.9100000262260437
+        }
+    },
+    {
+        "feedback": "The fitness tracker motivates me to stay active. Love it!",
+        "topics": {
+            "main": [
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Positive Experience": [
+                    "love"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.9300000071525574,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The keyboard is very responsive and great for typing.",
+        "topics": {
+            "main": [
+                "Technology & Software",
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Technology & Software": [
+                    "responsive"
+                ],
+                "Positive Experience": [
+                    "great"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The store\u2019s return policy is too strict. Not fair to customers.",
+        "topics": {
+            "main": [
+                "Refunds & Returns"
+            ],
+            "subtopics": {
+                "Refunds & Returns": [
+                    "policy",
+                    "return"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The subscription plan is too expensive for the features provided.",
+        "topics": {
+            "main": [
+                "Price & Value"
+            ],
+            "subtopics": {
+                "Price & Value": [
+                    "expensive"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "This hairdryer is very powerful and dries hair quickly!",
+        "topics": {
+            "main": [
+                "Performance"
+            ],
+            "subtopics": {
+                "Performance": [
+                    "powerful"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The freezer stopped working after just a month of use.",
+        "topics": {
+            "main": [
+                "Home & Appliances"
+            ],
+            "subtopics": {
+                "Home & Appliances": [
+                    "freezer"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "I love how easy it is to assemble this furniture.",
+        "topics": {
+            "main": [
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Positive Experience": [
+                    "love"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    },
+    {
+        "feedback": "The projector has an amazing picture quality. Perfect for home theater!",
+        "topics": {
+            "main": [
+                "Quality",
+                "Home & Appliances",
+                "Customer Experience",
+                "Positive Experience"
+            ],
+            "subtopics": {
+                "Quality": [
+                    "amazing",
+                    "quality"
+                ],
+                "Home & Appliances": [
+                    "projector"
+                ],
+                "Customer Experience": [
+                    "amazing"
+                ],
+                "Positive Experience": [
+                    "amazing"
+                ]
+            }
+        },
+        "topic_relevance_scores": {
+            "the": 0.019999999552965164,
+            "was": 0.019999999552965164
+        }
+    }
+]
